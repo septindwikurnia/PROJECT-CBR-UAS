@@ -1,0 +1,14 @@
+[
+  {
+    "query_id": 1,
+    "query_text": "Terdakwa menyimpan sabu dan ditangkap di rumah",
+    "true_case_id": 17,
+    "true_solution": "Penjara 5 tahun"
+  },
+  {
+    "query_id": 2,
+    "query_text": "Terdakwa membawa ganja di dalam tas ransel",
+    "true_case_id": 8,
+    "true_solution": "Penjara 4 tahun"
+  }
+]
